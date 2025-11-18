@@ -12,7 +12,7 @@ int main() {
         return 1;
     }
 
-    // Formula for surface area of sphere: 4 * π * r²
+    
     surface_area = 4 * M_PI * radius * radius;
 
     printf("\nSphere Surface Area Calculation:\n");
@@ -21,3 +21,4 @@ int main() {
 
     return 0;
 }
+
